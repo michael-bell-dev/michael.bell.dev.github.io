@@ -1,11 +1,11 @@
 [
     {
         "name": "ScrapRush",
-        "thumbnail": "images/ScrapRushIcon.png",
+        "thumbnail": "images/ScrapRushLogoBetter.png",
         "description": "A roguelike first person shooter with unlimited weapon customization.",
         "text": "",
         "images": [],
-        "tags": ["Unreal Engine", "Game", "Procedural Generation", "Data Structures", "OOP", "Algorithms"],
+        "tags": ["Unreal Engine", "Procedural Generation", "Game Development", "Data Structures", "OOP", "Algorithms"],
         "date": "Aug 2024 - Present",
         "links": {
             "GitHub": "",
@@ -15,7 +15,7 @@
     {
         "name": "Automated Music Transcription",
         "thumbnail": "",
-        "description": "",
+        "description": "Research in transcribing existing scores to new sets of instruments.",
         "text": "",
         "images": [],
         "tags": ["Python", "Music21", "Research", "Algorithms", "OOP"],
@@ -26,7 +26,7 @@
     },
     {
         "name": "LA NCSA Website",
-        "thumbnail": "",
+        "thumbnail": "images/NCSA.png",
         "description": "Migrating an existing website from NationBuilder to Wix.",
         "text": "",
         "images": [],
@@ -51,7 +51,7 @@
     {
         "name": "Portfolio Website",
         "thumbnail": "",
-        "description": "",
+        "description": "Stylized website to display my past and current projects.",
         "text": "",
         "images": [],
         "tags": ["HTML", "CSS", "JavaScript", "JSON", "Web Development"],
@@ -63,8 +63,8 @@
     },
     {
         "name": "Workwell Job Board",
-        "thumbnail": "",
-        "description": "",
+        "thumbnail": "images/Workwell.png",
+        "description": "Job board web page for Workwell Partnership.",
         "text": "",
         "images": [],
         "tags": ["Ruby", "PostgreSQL", "HTML", "CSS", "JavaScript", "BootStrap", "Rails", "MVC", "Web Development", "Linux"],
@@ -74,8 +74,8 @@
     },
     {
         "name": "JobLinker",
-        "thumbnail": "",
-        "description": "",
+        "thumbnail": "images/Joblinker.png",
+        "description": "An endorsement-based job searching platform.",
         "text": "",
         "images": [],
         "tags": ["Ruby", "PostgreSQL", "HTML", "CSS", "JavaScript", "BootStrap", "Rails", "MVC", "Web Development", "Linux"],
@@ -86,7 +86,7 @@
     {
         "name": "Multiplayer Online Character Selection System",
         "thumbnail": "",
-        "description": "",
+        "description": "Pick your character and enter a world with friends.",
         "text": "",
         "images": [],
         "tags": ["Computer Networking", "Unity", "C#", "Game Development"],
@@ -98,7 +98,7 @@
     {
         "name": "Scheduler App",
         "thumbnail": "",
-        "description": "",
+        "description": "Automatically book available rooms using the date and duration of your event.",
         "text": "",
         "images": [],
         "tags": ["Ruby", "CSV", "Data Structures", "Algorithms", "OOP"],
@@ -121,8 +121,8 @@
     },
     {
         "name": "YellowRose",
-        "thumbnail": "",
-        "description": "",
+        "thumbnail": "images/YellowRose.png",
+        "description": "Audio sampler VST plugin with ADSR envelope and custom time-jumping algorithm.",
         "text": "",
         "images": [],
         "tags": ["C++", "VST", "JUCE"],
@@ -134,7 +134,7 @@
     {
         "name": "Animal Farm",
         "thumbnail": "",
-        "description": "",
+        "description": "Animal matching game for children with voice-controlled navigation.",
         "text": "",
         "images": [],
         "tags": ["Unity", "C#", "AI", "Voice Recognition", "Hugging Face API",  "Game Development", "HCI"],
@@ -146,7 +146,7 @@
     {
         "name": "Service Agent",
         "thumbnail": "",
-        "description": "",
+        "description": "AI assistant with voice controlled commands.",
         "text": "",
         "images": [],
         "tags": ["AI", "Python", "Voice Recognition", "MediaPipe"],
@@ -158,10 +158,10 @@
     {
         "name": "Motion Detector",
         "thumbnail": "",
-        "description": "",
+        "description": "Object tracking algorithm to detect raised hands, nodding, and shaking your head.",
         "text": "",
         "images": [],
-        "tags": ["AI", "Python", "Object Tracking", "MediaPipe"],
+        "tags": ["AI", "Python", "Computer Vision", "MediaPipe"],
         "date": "Nov 2024 - Dec 2024",
         "links": {
             "GitHub": ""
@@ -170,7 +170,7 @@
     {
         "name": "Client-Server Chatroom",
         "thumbnail": "",
-        "description": "",
+        "description": "Live chatroom with room selection.",
         "text": "",
         "images": [],
         "tags": ["C", "Computer Networking", "Multithreading", "Sockets"],
@@ -181,8 +181,8 @@
     },
     {
         "name": "Silvies Valley Ranch Database",
-        "thumbnail": "",
-        "description": "",
+        "thumbnail": "images/Silvies.jpg",
+        "description": "Website for tracking goat deaths per season/year.",
         "text": "",
         "images": [],
         "tags": ["PostgreSQL", "JavaScript", "HTML", "CSS", "Web Development", "Linux"],
@@ -194,7 +194,7 @@
     {
         "name": "Virtual Memory System",
         "thumbnail": "",
-        "description": "",
+        "description": "Compares efficiency of caching algorithms: FIFO, LRU, and LFU",
         "text": "",
         "images": [],
         "tags": ["C", "Cache", "Linux"],
@@ -210,7 +210,7 @@
         "text": "",
         "images": [],
         "tags": ["C", "Linux"],
-        "date": "Feb 2024",
+        "date": "Feb 2024 - Mar 2024",
         "links": {
             "GitHub": ""
         }

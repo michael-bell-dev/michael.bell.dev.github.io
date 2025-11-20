@@ -74,6 +74,14 @@ h1, h2, p, a {
   border-radius: 15px;
   background-color: rgba(0, 0, 0, 0.3);
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  opacity: 0;
+  transform: translateY(10px);
+  transition: opacity 0.4s ease, transform 0.4s ease;
+}
+
+.project.show {
+  opacity: 1;
+  transform: translateY(0);
 }
 
 .project img {
@@ -95,4 +103,33 @@ h1, h2, p, a {
   padding: 4px 10px;
   margin: 2px;
   font-size: 0.9em;
+}
+
+#pagination {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.page-btn {
+  margin: 0 5px;
+  padding: 6px 12px;
+  border-radius: 8px;
+  border: none;
+  background: rgba(100, 149, 237, 0.2);
+  cursor: pointer;
+}
+
+.page-btn.active {
+  background: rgba(100, 149, 237, 0.5);
+  font-weight: bold;
+}
+
+#search {
+  width: 100%;
+  max-width: 500px;
+  padding: 10px 14px;
+  margin-bottom: 20px;
+  border-radius: 12px;
+  border: 1px solid rgba(0,0,0,0.2);
+  font-size: 1rem;
 }
