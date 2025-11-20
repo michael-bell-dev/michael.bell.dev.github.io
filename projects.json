@@ -18,8 +18,8 @@
         "description": "Research in transcribing existing scores to new sets of instruments.",
         "text": "",
         "images": [],
-        "tags": ["Python", "Music21", "Research", "Algorithms", "OOP"],
-        "date": "May 2025 - Present",
+        "tags": ["Python", "Music21", "XML", "Algorithms", "OOP"],
+        "date": "May 2025 - Dec 2025",
         "links": {
             "GitHub": ""
         }
@@ -39,7 +39,7 @@
     {
         "name": "Deep Learning Neural Network",
         "thumbnail": "",
-        "description": "",
+        "description": "Simple AI model created with unsupervised learning techniques.",
         "text": "",
         "images": [],
         "tags": ["AI", "Python", "JupyterNotebook", "Data Science", "CSV", "Deep Learning", "Neural Network"],
