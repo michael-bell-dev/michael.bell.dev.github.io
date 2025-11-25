@@ -67,7 +67,7 @@
         "description": "A text based battle simulation between different monster types.",
         "text": "",
         "images": [],
-        "tags": ["C#", "Game Development", "OOP"],
+        "tags": ["C++", "Game Development", "OOP"],
         "date": "Sept 2025 - Oct 2025",
         "links": {
             "GitHub": ""
